@@ -1,8 +1,8 @@
 # oop_assignment1
-I has exercises about abstract and interface
+It has exercises about abstract and interface
 
 
-ercises on interfaces
+exercises on interfaces
 ==========================
 
 1. Write a  program to create an interface Shape with the getArea() method. Create three classes Rectangle, Circle, and Triangle that implement the Shape interface. Implement the getArea() method for each of the three classes.
@@ -47,7 +47,7 @@ ercises on interfaces
 11. Write a  program to create an interface Sortable with a method sort (int[] array) that sorts an array of integers in descending order. Create two classes QuickSort and MergeSort that implement the Sortable interface and provide their own implementations of the sort() method.
 
 
-abstract exercises
+Abstract exercises
 ========================
 
 1.Create an abstract class 'Parent' with a method 'message'. It has two subclasses each having a method with the same name 'message' that prints "This is first subclass" and "This is second subclass" respectively. Call the methods 'message' by creating an object for each subclass.
